@@ -1,86 +1,42 @@
-{data: [
-  {
-    id: 1,
-    make: 'Tesla',
-    model: 'model 3',
-    cost: {
-      price: '235,000',
-      currency: 'AED',
-    },
-    meta: {
-      image:
-        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
-      bannerColor: '#fff',
-    },
-  },
-  {
-    id: 2,
-    make: 'Tesla',
-    model: 'model 3',
-    cost: {
-      price: '235,000',
-      currency: 'AED',
-    },
-    meta: {
-      image:
-        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
-      bannerColor: '#fff',
-    },
-  },
-  {
-    id: 3,
-    make: 'Tesla',
-    model: 'model 3',
-    cost: {
-      price: '235,000',
-      currency: 'AED',
-    },
-    meta: {
-      image:
-        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
-      bannerColor: '#fff',
-    },
-  },
-  {
-    id: 4,
-    make: 'Tesla',
-    model: 'model 3',
-    cost: {
-      price: '235,000',
-      currency: 'AED',
-    },
-    meta: {
-      image:
-        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
-      bannerColor: '#fff',
-    },
-  },
-  {
-    id: 5,
-    make: 'Tesla',
-    model: 'model 3',
-    cost: {
-      price: '235,000',
-      currency: 'AED',
-    },
-    meta: {
-      image:
-        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
-      bannerColor: '#fff',
-    },
-  },
-  {
-    id: 6,
-    make: 'Tesla',
-    model: 'model 3',
-    cost: {
-      price: '235,000',
-      currency: 'AED',
-    },
-    meta: {
-      image:
-        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
-      bannerColor: '#fff',
-    },
-  },
-]}
+{
+	"data": [{
+			"id": 12,
+			"make": "Tesla",
+			"model": "Model 3",
+			"cost": {
+				"price": "235,000",
+				"currency": "AED"
+			},
+			"meta": {
+				"image": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058",
+				"bannerColor": "#AEEED"
+			}
+		},
+		{
+			"id": 14,
+			"make": "Tesla",
+			"model": "Model 3",
+			"cost": {
+				"price": "235,000",
+				"currency": "AED"
+			},
+			"meta": {
+				"image": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058",
+				"bannerColor": "#AEEED"
+			}
+		},
+		{
+			"id": 15,
+			"make": "Tesla",
+			"model": "Model 3",
+			"cost": {
+				"price": "235,000",
+				"currency": "AED"
+			},
+			"meta": {
+				"image": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058",
+				"bannerColor": "#AEEED"
+			}
+		}
+	]
+}
