@@ -1,14 +1,86 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    id: 1,
+    make: 'Tesla',
+    model: 'model 3',
+    cost: {
+      price: '235,000',
+      currency: 'AED',
+    },
+    meta: {
+      image:
+        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
+      bannerColor: '#fff',
+    },
+  },
+  {
+    id: 2,
+    make: 'Tesla',
+    model: 'model 3',
+    cost: {
+      price: '235,000',
+      currency: 'AED',
+    },
+    meta: {
+      image:
+        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
+      bannerColor: '#fff',
+    },
+  },
+  {
+    id: 3,
+    make: 'Tesla',
+    model: 'model 3',
+    cost: {
+      price: '235,000',
+      currency: 'AED',
+    },
+    meta: {
+      image:
+        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
+      bannerColor: '#fff',
+    },
+  },
+  {
+    id: 4,
+    make: 'Tesla',
+    model: 'model 3',
+    cost: {
+      price: '235,000',
+      currency: 'AED',
+    },
+    meta: {
+      image:
+        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
+      bannerColor: '#fff',
+    },
+  },
+  {
+    id: 5,
+    make: 'Tesla',
+    model: 'model 3',
+    cost: {
+      price: '235,000',
+      currency: 'AED',
+    },
+    meta: {
+      image:
+        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
+      bannerColor: '#fff',
+    },
+  },
+  {
+    id: 6,
+    make: 'Tesla',
+    model: 'model 3',
+    cost: {
+      price: '235,000',
+      currency: 'AED',
+    },
+    meta: {
+      image:
+        'https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PPMR,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0&version=v0121-078c13b0d202212151058',
+      bannerColor: '#fff',
+    },
+  },
+]
